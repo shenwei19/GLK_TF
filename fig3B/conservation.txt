@@ -1,0 +1,18 @@
+All	Dicot	Monocot	Solanaceae
+TCA / org transformation	0.194	0.125	0	0
+polyamine metabolism	0.417	0.25	1	0.5
+mino acid metabolism	0	0	0	0
+stress	0.409	0.478	0.4	0.509
+protein	0.394	0.406	0.389	0.429
+secondary metabolism	0.5	0.5	0.393	0.432
+minor CHO metabolism	0.336	0.5	0.333	0.571
+development	0.445	0.467	0.542	0.5
+cell	0.324	0.471	0.243	0.452
+major CHO metabolism	0.368	0.25	0.417	0.353
+redox	0.327	0.421	0.294	0.259
+signalling	0.616	0.617	0.598	0.56
+lipid metabolism	0.392	0.455	0.205	0.596
+RNA	0.527	0.579	0.453	0.581
+hormone metabolism	0.577	0.638	0.566	0.571
+tetrapyrrole synthesis	0.615	0.667	0.474	0.647
+PS	0.775	0.79	0.747	0.777
